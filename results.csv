@@ -1,0 +1,24 @@
+Request Type,Endpoint,Status Code,Result
+POST,https://jsonplaceholder.typicode.com/posts,201,Success
+POST,https://jsonplaceholder.typicode.com/posts,201,Success
+POST,https://jsonplaceholder.typicode.com/posts,201,Failure
+POST,https://jsonplaceholder.typicode.com/posts,201,Success
+POST,https://jsonplaceholder.typicode.com/posts,201,Success
+POST,https://jsonplaceholder.typicode.com/posts,201,Success
+POST,https://jsonplaceholder.typicode.com/posts,201,Success
+GET,https://jsonplaceholder.typicode.com/posts,200,Success
+GET,https://jsonplaceholder.typicode.com/posts,200,Failure
+GET,https://jsonplaceholder.typicode.com/posts,200,Success
+GET,https://jsonplaceholder.typicode.com/posts,200,Success
+GET,https://jsonplaceholder.typicode.com/posts,200,Success
+PUT,https://jsonplaceholder.typicode.com/posts/1,200,Success
+PUT,https://jsonplaceholder.typicode.com/posts/1,200,Success
+PUT,https://jsonplaceholder.typicode.com/posts/1,200,Failure
+PUT,https://jsonplaceholder.typicode.com/posts/1,200,Success
+PUT,https://jsonplaceholder.typicode.com/posts/1,200,Success
+PUT,https://jsonplaceholder.typicode.com/posts/1,200,Success
+PUT,https://jsonplaceholder.typicode.com/posts/1,200,Success
+DELETE,https://jsonplaceholder.typicode.com/posts/1,200,Success
+DELETE,https://jsonplaceholder.typicode.com/posts/1,200,Failure
+DELETE,https://jsonplaceholder.typicode.com/posts/1,200,Success
+DELETE,https://jsonplaceholder.typicode.com/posts/1,200,Success
